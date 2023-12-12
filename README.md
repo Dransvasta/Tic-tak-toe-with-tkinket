@@ -29,4 +29,4 @@ This is a simple implementation of the classic Tic-Tac-Toe game using the Tkinte
 Run the following command in your terminal or command prompt:
 
 ```bash
-python tic_tac_toe.py
+python tic-tac-toe.py
